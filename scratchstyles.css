@@ -1,0 +1,56 @@
+
+.centered{
+    text-align: center;
+}
+
+.navigationlinks{
+    text-align: right;
+    padding-right: 2%;
+}
+
+.headingcolor{
+    color: rgb(53, 31, 2);
+}
+
+.browntext{
+    color: rgba(76, 37, 9, 0.973);
+}
+
+.bolder{
+    font-weight: bolder;
+}
+
+.headingfont{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.backgroundcolor{
+    background-color: rgb(250, 238, 222);
+}
+
+.headercolor{
+    background-color: rgb(216, 205, 185);
+}
+
+img{
+    width: 50%;
+}
+
+.textstyle{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.largertext{
+    font-size: larger;
+}
+
+.underlinedtext{
+    text-decoration: underline;
+}
+
+.historyofcereal{
+    color:  rgb(66, 65, 65);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

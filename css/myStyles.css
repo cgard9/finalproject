@@ -1,0 +1,27 @@
+.centeredtext{
+    text-align: center ;
+}
+
+.runningchamps{
+    height: 500px !important;
+    width: 500px !important;
+}
+
+.center{
+    justify-content: center;
+    display: flex;
+}
+
+.textmargins{
+    margin: 20px;
+}
+
+.portrait{
+    justify-content: center;
+    display: flex;
+    height: 400px;
+}
+
+.underline{
+text-decoration: underline !important; 
+}
